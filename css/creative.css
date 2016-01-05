@@ -1,0 +1,15 @@
+#table-button {
+    top: 50%;
+    left: 50%;
+}
+
+.table table-bordered table-striped {
+    width: 50%;
+    border-bottom-width: 7px;
+    border-bottom-color: #808080;
+   
+}
+
+#table {
+    width: 50%;
+} 
